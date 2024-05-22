@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.linalg import inv
 
-# Generate a random square matrix of order 100
+# Generate a random square matrix of order 600
 A = np.random.rand(600, 600)
 
 # Ensure the matrix is invertible by adding a multiple of the identity matrix
